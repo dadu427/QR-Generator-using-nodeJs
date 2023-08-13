@@ -1,0 +1,9 @@
+Open the Vs code and select repository.
+Install node js commands
+Install nodemon
+start the new terminal
+Open the new terminal and start the command.
+Run nodemon in the terminal to start the server.
+Open LocalHost:3000 in your browser.
+Enter the text in the textfield, Click on submit.
+It will generate the QR code, Scan it by using your QR Scanner.
